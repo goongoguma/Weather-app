@@ -1,1 +1,1 @@
-Simple Weather-app using react-redux, redux-thunk and axios 
+## Simple Weather-app using react-redux, redux-thunk and axios 
