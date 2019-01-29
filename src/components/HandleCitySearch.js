@@ -26,7 +26,7 @@ class HandleCitySearch extends React.Component {
         <form onSubmit={this.onFormSubmit}>
           <h1>How's The Weather Today?</h1>
           <p>
-            Type any name of cities and enter to view current weather conditons.
+            Type any name of city and enter to view current weather conditons.
           </p>
           <span>city</span>
           <input
