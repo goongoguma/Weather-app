@@ -26,13 +26,15 @@ class HandleCitySearch extends React.Component {
         <form onSubmit={this.onFormSubmit}>
           <h1>How's The Weather Today?</h1>
           <p>
-            Type any name of city and enter to view current weather conditons.
+            Type any name of city in English and enter to view current weather
+            conditons below the map.
           </p>
           <span>city</span>
           <input
             type="text"
             value={this.state.term}
             onChange={e => this.setState({ term: e.target.value })}
+            placeholder=" ex. seoul"
           />
           <button className="search-btn">Search</button>
         </form>

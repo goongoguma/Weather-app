@@ -81,12 +81,13 @@ input {
 .cityInfo {
   transform: translateY(60%);
   margin-top: 25px;
+  margin-bottom: 25px;
   text-align: center;
   line-height: 20px;
 }
 
 .cityInfo:first-child {
-  margin-top: 450px;
+  margin-top: 420px;
 }
 
 .city-name {
