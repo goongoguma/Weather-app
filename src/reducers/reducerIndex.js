@@ -1,4 +1,4 @@
-import { combineReducers } from "../../../../AppData/Local/Microsoft/TypeScript/3.2/node_modules/redux";
+import { combineReducers } from "redux";
 
 const reducerIndex = (state = [], action) => {
   switch (action.type) {
