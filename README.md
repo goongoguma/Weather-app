@@ -1,2 +1,1 @@
-## Simple Weather-app with react-redux, redux-thunk and axios 
-https://myfirstweatherapp.netlify.com
+## Simple Weather-app using react-redux, redux-thunk and axios 
